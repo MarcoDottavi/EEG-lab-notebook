@@ -1,4 +1,7 @@
-# EEG-lab-notebook (docs-update edit)
+
+# EEG-lab-notebook (docs-update + main edit)
+
+
 Mini-pipeline EEG: filtri, ICA, ERP/TF + note e figure
 ## Struttura
 - scripts/: codice (Python/MatLab/R)
